@@ -1,4 +1,10 @@
 /*
+  Below is our names
+
+  - PJ Granieri
+  -
+  -
+  
   Blink
 
   Turns an LED on for one second, then off for one second, repeatedly.
