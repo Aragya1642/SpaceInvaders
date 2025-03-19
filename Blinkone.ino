@@ -2,7 +2,7 @@
   Below is our names
 
   - PJ Granieri
-  - Joshua Krymgold
+  - Josh Krymgold
   - Aragya Goyal
   
   Blink
