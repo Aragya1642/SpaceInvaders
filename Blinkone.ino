@@ -3,7 +3,7 @@
 
   - PJ Granieri
   - Josh Krymgold
-  -
+  - Aragya Goyal
   
   Blink
 
