@@ -31,11 +31,17 @@ Correct responses increase the player’s score, flash a green LED, and play a "
 ## Repository Structure
 
 ├── src/ # Arduino software
+
 ├── pcb/ # KiCad PCB design files
+
 ├── cad/ # CAD screenshots and Onshape link
+
 ├── docs/ # Final report and additional documentation
+
 ├── media/ # Photos and video demonstration
+
 ├── LICENSE
+
 └── README.md
 
 
